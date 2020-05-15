@@ -1,0 +1,24 @@
+
+
+.pg-btn {
+    display: flex;
+
+}
+.pagination {
+    display: flex;
+    flex-direction: row;
+    margin: 64px auto;
+}
+.nxt-btn {
+    padding: 16px 32px;
+    background-color: #1abc9c;
+    border-radius: 16px;
+    color: white;
+    margin: 0 32px;
+}
+.hide {
+    display: none;
+}
+.padding-top {
+    padding-top: 64px;
+}
